@@ -1,0 +1,27 @@
+Criar o projeto
+
+erjs on  master [?] took 1m 4s > npx create-react-app erjs --template typescript
+
+--> Abre o vs code 
+code . 
+
+2.6. Criando o componente de Hello World
+jsx 
+Tsx 
+
+No react podemos trabalhar com quatro extensoes
+
+js 
+jsx 
+
+typescript --> ts e o ponto TSX 
+
+Ts nao identifica com comandos react
+
+2.7. Entendendo um pouco mais sobre o JSX - Html com Javascript
+
+2.8. Incorporando expressões dentro do JSX
+
+
+
+
